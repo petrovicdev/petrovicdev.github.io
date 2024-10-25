@@ -1,14 +1,14 @@
 # About Me
 
-👋 Hey there! I'm a cybersecurity enthusiast and researcher on a mission to make the digital world a safer place!
+👋 Hey there! I’m a cybersecurity enthusiast and researcher, a 17yo from Serbia.
 
 ## 🛡️ My Focus Areas:
-- **Web Application Security**: I dive deep into the code, hunting down vulnerabilities like a digital detective.
-- **Active Directory Security**: Ensuring that the gates are locked and only the right folks get in!
-- **Digital Forensics**: Unraveling mysteries from the digital crime scene—think of me as the Sherlock Holmes of cyberspace.
+- **Web Application Security**: Digging into code to identify vulnerabilities and strengthen applications is my passion.
+- **Active Directory Security**: I work on ensuring that access controls are tight and only the right people have access.
+- **Digital Forensics**: I enjoy piecing together clues from digital evidence, much like solving a mystery!
 
 ## 🎮 CTF Lover:
-When I’m not deep in research, you can find me tackling Capture The Flag (CTF) challenges. Each challenge is a puzzle waiting to be solved, and I’m all about that adrenaline rush!
+In my free time, I love tackling Capture The Flag (CTF) challenges. It’s a great way to sharpen my skills and have some fun!
 
 ## 📚 Currently Learning:
-I’m currently on the path to achieving my **CPTS certification**. Every day is a new opportunity to level up my skills and knowledge!
+At the moment, I’m working towards my **CPTS certification**.
